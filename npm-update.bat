@@ -3,3 +3,4 @@
 @call npm version %ut%
 @call npm publish
 @pause
+
